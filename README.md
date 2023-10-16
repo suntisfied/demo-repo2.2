@@ -2,3 +2,5 @@
 
 what is the default name of new repository in github?
 main? master?
+
+the answer is the master!
